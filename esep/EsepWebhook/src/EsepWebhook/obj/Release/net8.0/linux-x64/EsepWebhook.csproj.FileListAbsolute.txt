@@ -1,0 +1,17 @@
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.deps.json
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.runtimeconfig.json
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.dll
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Core.dll
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/bin/Release/net8.0/linux-x64/Amazon.Lambda.Serialization.SystemTextJson.dll
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.AssemblyReference.cache
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.GeneratedMSBuildEditorConfig.editorconfig
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfoInputs.cache
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.AssemblyInfo.cs
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.csproj.CoreCompileInputs.cache
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebh.2DAAD0C6.Up2Date
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.dll
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/refint/EsepWebhook.dll
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.pdb
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/EsepWebhook.genruntimeconfig.cache
+/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/obj/Release/net8.0/linux-x64/ref/EsepWebhook.dll

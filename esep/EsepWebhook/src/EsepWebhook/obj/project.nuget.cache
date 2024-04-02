@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vR2ml8ShPjm7s5uYo1Aam3lPC58LBXGTE4iSLtS6igMs09L/WrSb2C7YIwZ/1PI9Djjls9dUJGyo83rV4Jns8A==",
+  "success": true,
+  "projectFilePath": "/Users/davidrogers/Desktop/esep9/EsepWebhook/src/EsepWebhook/EsepWebhook.csproj",
+  "expectedPackageFiles": [
+    "/Users/davidrogers/.nuget/packages/amazon.lambda.core/2.2.0/amazon.lambda.core.2.2.0.nupkg.sha512",
+    "/Users/davidrogers/.nuget/packages/amazon.lambda.serialization.systemtextjson/2.4.1/amazon.lambda.serialization.systemtextjson.2.4.1.nupkg.sha512",
+    "/Users/davidrogers/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/8.0.3/microsoft.netcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/davidrogers/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/8.0.3/microsoft.aspnetcore.app.runtime.linux-x64.8.0.3.nupkg.sha512",
+    "/Users/davidrogers/.nuget/packages/microsoft.netcore.app.crossgen2.osx-arm64/8.0.3/microsoft.netcore.app.crossgen2.osx-arm64.8.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
